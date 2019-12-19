@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="307784ae-513e-49dd-85eb-e65cd1d842fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UvBrXeCCV0MON0w289wruuDrOa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Datatable" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="307784ae-513e-49dd-85eb-e65cd1d842fb" name="Default Changelist" comment="" />
+      <created>1576227387666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576227387666</updated>
+      <workItem from="1576227393668" duration="422000" />
+      <workItem from="1576237729531" duration="1086000" />
+      <workItem from="1576240389280" duration="480000" />
+      <workItem from="1576240937510" duration="673000" />
+      <workItem from="1576666473835" duration="9698000" />
+      <workItem from="1576678127361" duration="17000" />
+      <workItem from="1576678184414" duration="2838000" />
+      <workItem from="1576753207723" duration="1520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1506" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576666671394">
+      <screen x="-1920" y="3" width="1920" height="1040" />
+    </state>
+    <state x="-1506" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.3.1920.1040/0.0.1920.1040@-1920.3.1920.1040" timestamp="1576666671394" />
+    <state x="-1828" y="95" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1576679909826">
+      <screen x="-1920" y="3" width="1920" height="1040" />
+    </state>
+    <state x="-1828" y="95" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-1920.3.1920.1040/0.0.1920.1040@-1920.3.1920.1040" timestamp="1576679909826" />
+    <state x="-1180" y="277" key="FileChooserDialogImpl" timestamp="1576763533251">
+      <screen x="-1920" y="3" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="277" key="FileChooserDialogImpl/-1920.3.1920.1040/0.0.1920.1040@-1920.3.1920.1040" timestamp="1576763533251" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1576755264574">
+      <screen x="-1920" y="3" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1920.3.1920.1040/0.0.1920.1040@-1920.3.1920.1040" timestamp="1576755264574" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1576755264573">
+      <screen x="-1920" y="3" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/-1920.3.1920.1040/0.0.1920.1040@-1920.3.1920.1040" timestamp="1576755264573" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1576755264573">
+      <screen x="-1920" y="3" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/-1920.3.1920.1040/0.0.1920.1040@-1920.3.1920.1040" timestamp="1576755264573" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1576755264573">
+      <screen x="-1920" y="3" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/-1920.3.1920.1040/0.0.1920.1040@-1920.3.1920.1040" timestamp="1576755264573" />
+    <state x="-1459" y="164" key="SettingsEditor" timestamp="1576666560293">
+      <screen x="-1920" y="3" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="164" key="SettingsEditor/-1920.3.1920.1040/0.0.1920.1040@-1920.3.1920.1040" timestamp="1576666560293" />
+    <state x="-1263" y="260" width="606" height="526" key="find.popup" timestamp="1576227729305">
+      <screen x="-1920" y="3" width="1920" height="1040" />
+    </state>
+    <state x="-1263" y="260" width="606" height="526" key="find.popup/-1920.3.1920.1040/0.0.1920.1040@-1920.3.1920.1040" timestamp="1576227729305" />
+    <state x="-1578" y="217" key="new project wizard" timestamp="1576763544864">
+      <screen x="-1920" y="3" width="1920" height="1040" />
+    </state>
+    <state x="-1578" y="217" key="new project wizard/-1920.3.1920.1040/0.0.1920.1040@-1920.3.1920.1040" timestamp="1576763544864" />
+    <state x="-1304" y="242" width="672" height="677" key="run.anything.popup" timestamp="1576673151516">
+      <screen x="-1920" y="3" width="1920" height="1040" />
+    </state>
+    <state x="-1304" y="242" width="672" height="677" key="run.anything.popup/-1920.3.1920.1040/0.0.1920.1040@-1920.3.1920.1040" timestamp="1576673151516" />
+    <state x="-1297" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1576227725515">
+      <screen x="-1920" y="3" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="228" width="672" height="678" key="search.everywhere.popup/-1920.3.1920.1040/0.0.1920.1040@-1920.3.1920.1040" timestamp="1576227725515" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/jforce/ParaCekmeSteps.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
