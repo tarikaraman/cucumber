@@ -11,4 +11,7 @@ Feature:
   | 500TRY   | 100TRY     | 400TRY          |
   | 500TRY   | 200TRY     | 300TRY          |
 
-
+  Scenario: Para Yatırma
+    Given Bankada şu kadar param var 500
+    When 50 miktarında para yatırırsam
+    Then Hesabımdaki miktarında bu olması beklerim : 550
